@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+
+# Python cache
+.pytest_cache/
+# Logs
+*.log
+
+# Assignment source PDF
+data/Agentic-AI.pdf
